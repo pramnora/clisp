@@ -33,7 +33,7 @@ C:\> clisp
 ...to run...  
 > clisp  
 
-**NOTE**: To quit running LISP...; just type: [CTRL]+[D].  
+**NOTE**: To quit running cLISP...; just type: [CTRL]+[D].  
 
 
 -----
