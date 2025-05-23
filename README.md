@@ -46,6 +46,7 @@ C:\> clisp
 
 > (defun add (x y)  
 >   (+ x y))  
+> ADD  
 > (print (add 2 3))  
 > 5
 
