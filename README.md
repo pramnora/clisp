@@ -1,6 +1,8 @@
 # cLISP
 cLISP code  
 
+**Document last modified**: *Fri 23rd May 2025 16:15 PM GMT*
+
 ## What is CLISP?
 
 cLISP, is a version of the LISP/(LIS)t (P)rocessing language.  
@@ -25,6 +27,11 @@ C:\> clisp
 
 > (print (+ 1 2))  
 
+> (defun add (x y)  
+>   (+ x y))  
+> (print (add 2 3))  
+> 5
+ 
 ## Tutorials...
 
 Tutorials point  
