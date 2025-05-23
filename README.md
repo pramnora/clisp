@@ -15,6 +15,8 @@ cLISP, is a version of the LISP/(LIS)t (P)rocessing language.
 
 ## Download CLISP
 
+### Windows OS
+
 GNU cLISP, can be downloaded for FREE from:  
 https://sourceforge.net/projects/clisp/files/latest/download  
 
@@ -24,6 +26,10 @@ C:\> clisp
 [1]>
 
 ...to get cLISP running. Now, you are ready to type in cLISP code and run it inside of the cLISP interpreter program; quite simply, by typing in the cLISP commands; and, then, pressing the [ENTER] key to make those commands execute.
+
+### Linux Mint OS
+
+> sudo apt install clisp  
 
 -----
 
