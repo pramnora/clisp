@@ -37,6 +37,11 @@ C:\> clisp
 >   (+ x y))  
 > (print (add 2 3))  
 > 5
+
+> (if (> 5 3)  
+>   (print "5 is greater than 3")  
+>   (print "5 is NOT greater than 3"))  
+> 5 is greater than 3  
  
 -----
 
