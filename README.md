@@ -29,8 +29,10 @@ C:\> clisp
 
 ### Linux Mint OS
 
-> sudo apt install clisp  
-
+> sudo apt install clisp   
+...to run...  
+> clisp  
+ 
 -----
 
 ## Code examples...
