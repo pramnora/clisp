@@ -3,11 +3,15 @@ cLISP code
 
 **Document last modified**: *Fri 23rd May 2025 16:15 PM GMT*
 
+-----
+
 ## What is CLISP?
 
 cLISP, is a version of the LISP/(LIS)t (P)rocessing language.  
 
 *NOTE*: LISP processing type of programming languages tend to use a lot of circular brackets in their code: ((())).  
+
+-----
 
 ## Download CLISP
 
@@ -21,6 +25,8 @@ C:\> clisp
 
 ...to get cLISP running. Now, you are ready to type in cLISP code and run it inside of the cLISP interpreter program; quite simply, by typing in the cLISP commands; and, then, pressing the [ENTER] key to make those commands execute.
 
+-----
+
 ## Code examples...
 
 > (print "Hello, world!")  
@@ -32,7 +38,9 @@ C:\> clisp
 > (print (add 2 3))  
 > 5
  
+-----
+
 ## Tutorials...
 
 Tutorials point  
-https://www.tutorialspoint.com/lisp/index.htm  
+- https://www.tutorialspoint.com/lisp/index.htm  
