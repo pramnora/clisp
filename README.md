@@ -50,6 +50,11 @@ C:\> clisp
 > (print (add 2 3))  
 > 5
 
+> (defun greet (name)  
+>   (format t "Hello, ~A!" name))  
+> GREET  
+> (greet "Alice") ; prints "Hello, Alice!"  
+
 > (if (> 5 3)  
 >   (print "5 is greater than 3")  
 >   (print "5 is NOT greater than 3"))  
