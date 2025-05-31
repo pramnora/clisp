@@ -70,7 +70,7 @@ C:\> clisp
 
 ## Articles  
 
-Wikidedia article  
+Wikipedia article  
 - https://en.wikipedia.org/wiki/Lisp_(programming_language)  
  
 -----
