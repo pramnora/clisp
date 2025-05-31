@@ -70,3 +70,10 @@ C:\> clisp
 
 Tutorials point  
 - https://www.tutorialspoint.com/lisp/index.htm  
+
+## YouTube videos...
+
+Lisp Programming Language – Full Course for Beginners / (Channel: freeCodeCamp.org)  
+- https://www.youtube.com/watch?v=cKK-Y1-jAHM&t=1264s
+  
+  
