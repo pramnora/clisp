@@ -32,6 +32,10 @@ C:\> clisp
 > sudo apt install clisp   
 ...to run...  
 > clisp  
+...to run clisp with a named program file:  
+> clisp programFileName.lisp  
+
+
 
 **NOTE**: To quit running cLISP...; just type: [CTRL]+[D].  
 
