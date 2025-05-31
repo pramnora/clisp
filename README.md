@@ -11,7 +11,7 @@ cLISP/Common Lisp, is a version of the LISP/(LIS)t (P)rocessing language.
 
 *NOTE*: LISP processing type of programming languages tend to use a lot of circular brackets in their code: ((())).  
 
-LISP, is said to be the 2nd high level programming language, which was invented by John Mcarthy; the first high level programming language being, FORTRAN.  
+LISP, is said to be the 2nd high level programming language, which was invented by John Mcarthy (1959); the first high level programming language being, FORTRAN(1958).  
 
 -----
 
