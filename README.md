@@ -30,7 +30,7 @@ C:\> clisp
 ### Linux Mint OS
 
 > sudo apt install clisp   
-...to run...  
+...to run clisp REPL/Read Eval Print Loop program:   
 > clisp  
 ...to run clisp with a named program file:  
 > clisp programFileName.lisp  
