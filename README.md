@@ -11,6 +11,8 @@ cLISP/Common Lisp, is a version of the LISP/(LIS)t (P)rocessing language.
 
 *NOTE*: LISP processing type of programming languages tend to use a lot of circular brackets in their code: ((())).  
 
+LISP, is said to be the 2nd high level programming language, which was invented by John Mcarthy; the first high level programming language being, FORTRAN.  
+
 -----
 
 ## Download CLISP
@@ -63,6 +65,13 @@ C:\> clisp
 >   (print "5 is greater than 3")  
 >   (print "5 is NOT greater than 3"))  
 > 5 is greater than 3  
+
+-----
+
+## Articles  
+
+Wikidedia article  
+- https://en.wikipedia.org/wiki/Lisp_(programming_language)  
  
 -----
 
@@ -76,4 +85,8 @@ Tutorials point
 Lisp Programming Language – Full Course for Beginners / (Channel: freeCodeCamp.org)  
 - https://www.youtube.com/watch?v=cKK-Y1-jAHM&t=1264s
   
+
+-----
+
+
   
