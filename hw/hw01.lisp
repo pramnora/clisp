@@ -1,1 +1,1 @@
-(print "Hello, world") ; output: Hello, world!
+(print "Hello, world!") ; output: Hello, world!
