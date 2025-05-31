@@ -79,6 +79,7 @@ Wikipedia article
 
 Lisp-lang.org  
 - https://lisp-lang.org/  
+- https://lisp-lang.org/learn/  
 
 -----
 
