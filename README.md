@@ -1,13 +1,13 @@
 # cLISP
 cLISP code  
 
-**Document last modified**: *Fri 23rd May 2025 16:15 PM GMT*
+**Document last modified**: *Sat 31st May 2025 21:21 PM GMT*
 
 -----
 
 ## What is CLISP?
 
-cLISP, is a version of the LISP/(LIS)t (P)rocessing language.  
+cLISP/Common Lisp, is a version of the LISP/(LIS)t (P)rocessing language.  
 
 *NOTE*: LISP processing type of programming languages tend to use a lot of circular brackets in their code: ((())).  
 
